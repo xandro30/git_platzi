@@ -1,3 +1,1 @@
-cambio1
-
-cambios 2 revert hard
+vuelta al pasado mediante git checkout
